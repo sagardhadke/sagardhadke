@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [AL - ZOYAOVERSEAS](https://sagardhadke.github.io/dental/index.html)
 
-- 🌱 I’m currently learning **Bca , Android Development And Web Development.**
+- 🌱 I’m currently learning **Bca , Kotlin , Android Development And Web Development.**
 
 - 💬 Ask me about **Android , Web**
 
