@@ -35,12 +35,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SagarDhadke&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="sagardhadke" /></p>
 <br>
-
 <br>
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tool-Android-informational?style=flat&logo=android&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-xml-informational?style=flat&logo=xml&logoColor=white&color=4AB197)
