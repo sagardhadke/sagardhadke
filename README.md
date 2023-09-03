@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/sagardhadke_uc" target="blank"><img src="https://img.shields.io/twitter/follow/sagardhadke_uc?logo=twitter&style=for-the-badge" alt="sagardhadke_uc" /></a> </p>
 
-- 🔭 I’m currently working on [LockQR]([https://sagardhadke.github.io/dental/index.html](https://github.com/SagarDhadke/LockQR))
+- 🔭 I’m currently working on [LockQR](https://github.com/SagarDhadke/LockQR)
 
 - 🌱 I’m currently learning **Bca , Kotlin , Android Development.**
 
