@@ -1,0 +1,58 @@
+.contact-me{
+    padding: 120px 0 0 0;
+    margin-bottom: -17px;
+}
+
+
+
+.contuict-me-main{
+    display: flex;
+    justify-content: space-between;
+    padding: 60px 78px 60px 78px;
+    background-color: #F8FBFF;
+    border: 1px solid #DFEAF9;
+    box-shadow: 0px 30px 50px rgba(14, 23, 57, 0.04);
+    border-radius: 0px 15px 15px 0px;
+    position: relative;
+            
+    &::after{
+        position: absolute;
+        content: "";
+        top: 0;
+        left: 50%;
+        width: 1px;
+        height: 100%;
+        background-color: #DFEAF9;
+    }
+    .contact-me-item{
+        display: flex;
+        .contact-me-inner{
+            display: flex;
+            gap: 34px;
+
+       
+            .text{
+                h3{
+                    font-weight: 600;
+                    font-size: 24px;
+                    line-height: 150%;
+                }
+    
+                p{
+                    font-weight: 400;
+                    font-size: 20px;
+                    line-height: 35px;
+                }
+
+                h5{
+                    font-weight: 600;
+                    font-size: 24px;
+                    color: #04091E;
+                    line-height: 150%;
+                }
+            }
+        }
+    }
+}
+
+

@@ -1,0 +1,238 @@
+.inner-bg{
+    background: url(../assets/image/others/banner/inner-bg.png) no-repeat center / cover;
+    padding: 238px 0px 116px 0px;
+}
+
+
+.inner-bg-head{
+    text-align: center;
+    h1{
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 140%;
+        color: #04091E;
+    }
+}
+
+
+.inner-item{
+    display: flex;
+    align-items: center;
+    gap: 17px;
+    justify-content: center;
+    padding-top: 8px;
+    text-transform: capitalize;
+    .inner-text{
+        
+        a{
+        font-weight: 400;
+        font-size: 20px;
+        color: #04091E;
+        
+        }
+        h5{
+        font-weight: 400;
+        font-size: 20px;
+        color: #04091E;
+        }
+      
+    }     
+    
+}
+
+
+.inner-bg-two{
+    background: url(../assets/image/others/banner/inner-bg-2.png) no-repeat center / cover;
+    padding: 238px 0px 116px 0px;
+
+    .inner-bg-head{
+        text-align: center;
+        h1{
+            color: #fff;
+        }
+    }
+
+    .inner-text{
+        
+        a{
+        font-weight: 400;
+        font-size: 20px;
+        color: #fff;
+        }
+        h5{
+        font-weight: 400;
+        font-size: 20px;
+        color: #fff;
+        }
+      
+    } 
+
+    .icon{
+        i{
+            color: #fff;
+            font-size: 20px;
+        }
+    }
+}
+
+
+
+
+
+.about-hero{
+    background: url("../assets/image/About/about-bg.png") no-repeat center / cover;
+    padding: 238px 0px 116px 0px;
+    
+    .inner-bg-head{
+        text-align: center;
+        h1{
+            font-weight: 700;
+            font-size: 48px;
+            line-height: 140%;
+            color: rgba(255, 255, 255, 1);
+        }
+    }
+    
+    
+    .inner-item{
+        display: flex;
+        align-items: center;
+        gap: 17px;
+        justify-content: center;
+        padding-top: 8px;
+        text-transform: capitalize;
+        .inner-text{
+            
+            a{
+            font-weight: 400;
+            font-size: 20px;
+            color: rgba(255, 255, 255, 1);
+            
+            }
+            h5{
+            font-weight: 400;
+            font-size: 20px;
+            color: rgba(255, 255, 255, 1);
+            }
+          
+        } 
+        
+        
+        .icon{
+            i{
+                color: #fff !important;
+              
+            }
+        }
+        
+    }
+}
+
+
+
+
+
+
+
+
+
+.photographer-hero{
+    background: url("../assets/image/Photographer/service-bg.png") no-repeat center / cover;
+    padding: 272px 0 133px 0;
+    
+    .inner-bg-head{
+        text-align: center;
+        h1{
+            font-weight: 700;
+            font-size: 48px;
+            line-height: 140%;
+            color: rgba(255, 255, 255, 1);
+        }
+    }
+    
+    
+    .inner-item{
+        display: flex;
+        align-items: center;
+        gap: 17px;
+        justify-content: center;
+        padding-top: 8px;
+        text-transform: capitalize;
+        .inner-text{
+            
+            a{
+            font-weight: 400;
+            font-size: 20px;
+            color: rgba(255, 255, 255, 1);
+            
+            }
+            h5{
+            font-weight: 400;
+            font-size: 20px;
+            color: rgba(255, 255, 255, 1);
+            }
+          
+        } 
+        
+        
+        .icon{
+            i{
+                color: #fff !important;
+              
+            }
+        }
+        
+    }
+}
+
+
+
+.lawyer-hero{
+    background: url("../assets/image/Lawyer/about-bg-1.png"
+    ) no-repeat center / cover;
+    padding: 272px 0 133px 0;
+    
+    .inner-bg-head{
+        text-align: center;
+        h1{
+            font-weight: 700;
+            font-size: 48px;
+            line-height: 140%;
+            color: rgba(255, 255, 255, 1);
+        }
+    }
+    
+    
+    .inner-item{
+        display: flex;
+        align-items: center;
+        gap: 17px;
+        justify-content: center;
+        padding-top: 8px;
+        text-transform: capitalize;
+        .inner-text{
+            
+            a{
+            font-weight: 400;
+            font-size: 20px;
+            color: rgba(255, 255, 255, 1);
+            
+            }
+            h5{
+            font-weight: 400;
+            font-size: 20px;
+            color: rgba(255, 255, 255, 1);
+            }
+          
+        } 
+        
+        
+        .icon{
+            i{
+                color: #fff !important;
+              
+            }
+        }
+        
+    }
+}

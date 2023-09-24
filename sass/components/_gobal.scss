@@ -1,0 +1,135 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+     margin: 0;
+    padding: 0;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// colors
+$primary-color:rgba(253, 204, 4, 1);
+$secondary-color:rgba(245, 245, 245, 1);
+$heading-color:rgba(4, 9, 30, 1);
+$paragraph-color:#747681;
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 700;
+    color: $heading-color;
+    margin: 0;
+}
+
+h1 {
+    font-size: 72px;
+    line-height: 84.46px;
+    color: $secondary-color;
+}
+
+h2 {
+    font-size: 48px;
+    line-height: 67.2px;
+}
+
+h3 {
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 500;;
+    color: $primary-color;
+
+}
+
+
+
+p {
+    font-size: 18px;
+    // line-height: 27.36px;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+    color: $paragraph-color;
+    
+}
+
+
+
+// img {
+//     max-width: 100%;
+// }
+
+.container{
+    max-width: 1170px;
+    margin: 0 auto;
+    padding:0;
+}
+@mixin commonButton(){
+    padding: 16px 24px;
+    background-color: $primary-color;
+    color: $heading-color;
+    border-radius: 8px;
+    display: inline-block;
+    border: 1px solid $primary-color;
+
+    &:hover{
+        background: $secondary-color;
+    }
+}
+
+.cmn-nav{
+    @include commonButton()
+}
+
+.slick-dots {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    gap: 15px;
+    margin-top: 60px;
+}
+
+.slick-dots button {
+    display: block;
+    width: 12px;
+    height: 12px;
+    padding: 0;
+    border: none;
+    border-radius: 100%;
+    background-color:#FDCC04;
+    opacity: 0.2;
+    text-indent: -9999px;
+}
+
+.slick-active button {
+    background-color: #F4DCC0;
+    opacity: 1;
+    height: 14px;
+    width: 14px;
+}
+
+.row{
+    margin: 0;
+    padding: 0;
+}

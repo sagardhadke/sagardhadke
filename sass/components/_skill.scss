@@ -1,0 +1,140 @@
+
+.skills {
+	padding: 80px 0;
+	background: url(../assets/image/others/banner/skills-bg.png) no-repeat center / cover;
+
+
+
+	.skill-text {
+		h2 {
+			font-weight: 700;
+			font-size: 48px;
+			line-height: 67.2px;
+			color: #fff;
+		}
+	}
+	.skill-right {
+		p {
+			font-weight: 400;
+			font-size: 24px;
+			line-height: 150%;
+			color: #F4F8F7;
+		}
+	}
+	.skill-rigght-btn {
+		margin-top: 40px;
+		line-height: 0;
+		a {
+			font-family: 'Work Sans', sans-serif;
+			font-size: 16px;
+			font-weight: 500;
+			span {
+				svg {
+					fill: currentColor;
+					color: #fff;
+				}
+			}
+			
+		&:hover{
+			a{
+				span{
+					svg{
+						transform: translateY(10px);
+					}
+				}
+			}
+		}
+		
+		}
+	
+	}
+}
+
+
+
+
+
+.skills-two{
+	background: url(../assets/image/others/banner/skill-two-bg.png) no-repeat center / cover;
+
+.skill-rigght-btn-two{
+	.btn-style-1{
+		background-color: #FFD233;
+		a{
+			font-family: 'Work Sans', sans-serif;
+			font-size: 16px;
+			font-weight: 500;
+			color: #04091E;
+			gap: 4PX;
+			span{
+				svg{
+					transition: all linear 0.5s;
+					width: 24px;
+					color: #04091E;
+				}
+			}
+
+		
+	}
+}
+
+}
+}
+
+
+
+.skills-1{
+margin-top: 118px;
+}
+
+.slick-two-2{
+	padding-top: 0;
+}
+
+
+
+
+.skills-three {
+	padding: 80px 0;
+	background: url(../assets/image/others/banner/skill-3.png) no-repeat center / cover;
+
+
+
+	.skill-text {
+		h2 {
+			font-weight: 700;
+			font-size: 48px;
+			line-height: 67.2px;
+			color: #fff;
+		}
+	}
+	.skill-right {
+		p {
+			font-weight: 400;
+			font-size: 24px;
+			line-height: 150%;
+			color: #F4F8F7;
+		}
+	}
+	.skill-rigght-btn-two{
+		.btn-style-2{
+			a{
+				font-family: 'Work Sans', sans-serif;
+				font-size: 16px;
+				font-weight: 500;
+				color: #04091E;
+				gap: 4PX;
+				span{
+					svg{
+						transition: all linear 0.5s;
+						width: 24px;
+						color: #04091E;
+					}
+				}
+	
+			
+		}
+	}
+	
+	}
+}

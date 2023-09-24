@@ -1,0 +1,169 @@
+.product-details{
+    background: url(../assets/image/others/banner/Product-details-bg.png) no-repeat center / cover;
+    padding: 120px 0;
+
+
+
+    .slick-dots button {
+        display: block;
+        width: 12px;
+        height: 12px;
+        padding: 0;
+        border: none;
+        border-radius: 100%;
+        background-color: #2662FA;
+        opacity: 0.2;
+        text-indent: -9999px;
+    }
+    
+    .slick-active button {
+        background-color: #2662FA;
+        opacity: 1;
+        height: 14px;
+        width: 14px;
+    }
+}
+
+
+
+.product-details-mt{
+    padding-top: 40px;
+    border-bottom: 2px solid #ECEAFF;
+    padding-bottom: 20px;
+}
+
+
+
+
+.product-details-text{
+
+    h2{
+        font-weight: 600;
+        font-size: 48px;
+        line-height: 140%;
+        color: #04091E;
+    }
+}
+
+
+.product-details-text-right{
+    p{
+        font-weight: 600;
+        font-size: 32px;
+        color: #04091E;
+
+
+        del{
+            color: #747681;
+        }
+
+        span{
+            padding-left: 63px;
+        }
+    }
+}
+
+
+.product-details-text-right-icon{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    margin-left: -57px;
+    .icon{
+        i{
+            color: #FFCE4C;
+            border-radius: 2px;
+    
+           
+        }
+    
+        span{
+            i{
+                color: #C4C4C4;
+            }
+        }
+    }
+
+    p{
+        font-weight: 400;
+        font-size: 24px;
+        color: #04091E;
+    }
+}
+
+
+
+
+.product-details-middel{
+    h5{
+        font-weight: 600;
+        font-size: 24px;
+        color: #2662FA;
+        padding-top: 40px;
+    }
+
+    p{
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 152%;
+        color: #747681;
+      padding: 20px 0;
+    }
+
+    span{
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 152%;
+        color: #747681;
+      
+    }
+}
+
+
+
+
+.additional-details{
+    h4{
+        font-weight: 600;
+        font-size: 24px;
+        color: #2662FA;
+        padding-top: 20px;
+    }
+}
+
+.additional-details-item{
+    display: flex;
+    gap: 66px;
+    margin-top: 24px;
+    .additional-details-inner{
+ 
+        p{
+            font-weight: 500;
+            font-size: 18px;
+            line-height: 152%;
+            color: #111111;
+            padding-bottom: 12px;
+
+            &:last-child{
+                padding-bottom: 0;
+            }
+            span{
+              color: #747681;
+              padding-left: 20px;
+            }
+        }
+    }
+}
+
+
+.additional-details-btn{
+    margin-top: 56px;
+}
+
+
+.additional-details-top{
+    margin-top: 53px;
+}
+
+

@@ -1,0 +1,288 @@
+.testmonials{
+    padding: 110px 0 117px 0;
+    background: url(../assets/image/others/banner/Testmonials-bg.png) no-repeat center / cover;
+}
+
+
+
+
+
+
+
+.testmonials-head{
+    text-align: center;
+    span{
+        background: linear-gradient(95.49deg, #FCAD02 -36.87%, #FF0041 98.63%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        text-transform: uppercase;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 160%;
+    }
+
+    h2{
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 140%;
+        color: #04091E;
+    }
+}
+
+
+.testmonials-top{
+    padding: 30px 30px 30px 37px;
+    box-shadow: 0px 9px 126px rgba(20, 0, 255, 0.06);
+    border-radius: 8px;
+    border: 1px solid #F4F4F4;
+    background-color: #fff;
+    width: 940px;
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+}
+
+
+
+
+.testmonials-item{
+    .icon{
+        i{
+            color: #FCAD02;
+        }
+    }
+
+    .text{
+        p{
+            font-weight: 400;
+            font-size: 20px;
+            line-height: 160%;
+            color: #747681;
+            padding: 30px 0 34px 0;
+            margin-right: 25px;
+        }
+
+        h3{
+            font-weight: 600;
+            font-size: 24px;
+            line-height: 150%;
+            color: #04091E;
+        }
+
+        span{
+            font-weight: 500;
+            font-size: 18px;
+            line-height: 152%;
+            color: #747681;
+        }
+    }
+}
+
+
+.testmonial-img{
+    text-align: end;
+    position: relative;
+
+    .testmonial-img-over{
+        position: absolute;
+        bottom: 15px;
+        left: -35px;
+        width: 75px;
+        height: 75px;
+        background-color: #FF3F00;
+        border-radius: 50px;
+        line-height: 70px;
+        text-align: center;
+    }
+}
+
+
+
+
+
+.brand-head{
+    margin: 50px 0 33px 0;
+    
+    h2{
+        text-align: center;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 150%;
+        color: #04091E;
+        opacity: 0.8;
+    }
+}
+
+
+
+
+
+.testi-brand{
+    .testi-brand-img{
+        text-align: center;
+
+   
+        span{
+            svg{
+                fill: currentColor;
+                color: #747681;
+                transition: all .5s;
+                &:hover{
+                    color: #FF3F00;
+                }
+            }
+        }
+    }
+
+        .testi-brand-img-two{
+        text-align: center;
+
+   
+        span{
+            svg{
+                fill: currentColor;
+                color: #FF3F00;
+                transition: all .5s;
+                &:hover{
+                    color: #747681;
+                }
+            }
+        }
+    }
+
+
+
+    
+}
+
+
+
+
+
+
+
+
+
+.lawyear-testimonial {
+    padding: 110px 0 116px 0;
+    background: url("../assets/image/Lawyer/testimonial-bg.png") no-repeat center / cover;
+
+    .testimonial-heading {
+        text-align: center;
+        padding-bottom: 52px;
+
+        h3 {
+            color: #FF3F00;
+			font-size: 20px;
+			font-weight: 500;
+			line-height: 32px;
+            text-transform: uppercase;
+        }
+    }
+
+    .testimonial-top {
+        padding: 30px 30px 30px 41px;
+        background-color: #ffffff;
+        border: 1px solid rgba(244, 244, 244, 1);
+        box-shadow: 0 9px 126px 0 rgba(20, 0, 255, 0.06);
+        width: 940px;
+        margin: auto;
+
+        .testimonial-box {
+            .testimonial-item {
+                i {
+                    font-size: 15px;
+                    color: rgba(253, 204, 4, 1);
+                    padding-bottom: 30px;
+                }
+            }
+        }
+
+    }
+
+    .testimonial-content {
+
+        p {
+            font-size: 20px;
+        }
+
+        h3 {
+            color: $heading-color;
+            padding-top: 34px;
+            font-weight: 700;
+        }
+    }
+
+    .testimonial-img {
+        img {
+            width: 100%;
+        }
+    }
+
+    .testimonial-mr {
+        padding: 0;
+    }
+
+    .testimonial-brand {
+        .testimonial-brand-heading {
+            text-align: center;
+            padding-top: 50px;
+            padding-bottom: 34px;
+            h3{
+                color: $heading-color;
+            }
+        }
+    }
+    .testimonial-brand-img {
+        
+        .testimonial-brand-inner-img {
+            
+            span{
+                svg{
+                    fill: currentColor;
+                    color: rgba(116, 118, 129, 1);
+                    transition: all .5s;
+
+                    
+                }
+            }
+            &:hover{
+                span{
+                    svg{
+                        color: rgba(255, 63, 0, 1);
+                    }
+                }
+            }
+        }
+    }
+
+
+    .testimonial-brand-img-2 {
+        
+        .testimonial-brand-inner-img {
+            
+            span{
+                svg{
+                    fill: currentColor;
+                    color: rgba(116, 118, 129, 1);
+                    transition: all .5s;
+                    color: rgba(255, 63, 0, 1);
+                    
+                }
+            }
+            &:hover{
+                span{
+                    svg{
+                   
+                        color: rgba(116, 118, 129, 1);
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+
+  

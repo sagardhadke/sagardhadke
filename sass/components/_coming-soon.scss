@@ -1,0 +1,157 @@
+.coming-soon{
+    padding: 105px 0 326px;
+
+
+
+ 
+}
+
+
+
+.coming-soon-text{
+    text-align: center;
+    h2{
+        font-weight: 600;
+        font-size: 48px;
+        line-height: 140%;
+        color: #000000;
+    }
+
+    p{
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 160%;
+        color: #718096;
+        padding-top: 4px;
+    }
+}
+
+.coming-soon-item{
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin-top: 36px;
+span{
+    color: #CBD5E0;
+    font-size: 50px;
+}
+    .coming-soon-inner{
+        padding: 15px 35px;
+        border: 2px solid #E8EDFF;
+        border-radius: 8px;
+        h2{
+            font-weight: 700;
+            font-size: 48px;
+            line-height: 140%;
+            color: #000000;
+        }
+
+        p{
+            font-weight: 400;
+            font-size: 20px;
+            line-height: 160%;
+            color: #718096;
+        }
+    }
+}
+
+.coming-soon-btn{
+display: flex;
+justify-content: center;
+margin-top: 17px;
+}
+
+.official-text-two-2{
+    p{
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 160%;
+        color: #1A202C !important;
+    }
+}
+
+
+
+.official-btn-left-two{
+background-color: #EDF2F7;
+border-top-left-radius: 12px;
+border-bottom-left-radius: 12px;
+width: 334px;
+}
+
+
+.official-btn-right-2{
+    border: 1px solid #2662FA;
+
+
+    &:hover{
+        border: 1px solid #2662FA;
+    }
+}
+
+
+
+.coming-soon-icon{
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    margin-top: 60px;
+    .icon-1{
+        height: 36px;
+        width: 36px;
+        background-color: #2662FA;
+        border-radius: 8px; 
+        text-align: center;
+        line-height: 36px;
+
+     
+        span{
+            svg{
+                stroke: currentColor;
+                color: #fff;
+            }
+        }
+    }
+    .icon{
+        height: 36px;
+        width: 36px;
+        background-color: #E2E8F0;
+        border-radius: 8px; 
+        text-align: center;
+        line-height: 36px;
+        transition: all 0.5s;
+        &:hover{
+            background-color: #2662FA;
+            span{
+                svg{
+                    color: #fff;
+                }
+            }
+        }
+        span{
+            svg{
+                stroke: currentColor;
+                color:  #718096;
+                transition: all 0.5s;
+            }
+        }
+    }
+}
+
+
+
+
+
+.comming-soon-img{
+    position: relative;
+    .comming-soon-img-1{
+        position: absolute;
+        top: 0px;
+        left: -327px;
+    }
+    .comming-soon-img-2{
+        position: absolute;
+        bottom: -758px;
+        right: -373px;
+    }
+}

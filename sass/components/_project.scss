@@ -1,0 +1,269 @@
+
+.Project {
+	background: url(../assets/image/others/banner/Project-bg.png) no-repeat center / cover;
+	width: 100%;
+	min-height: 631px;
+	position: relative;
+	z-index: -1;
+}
+.Projec-too {
+	background: url(../assets/image/others/banner/projecr-bg-2.png) no-repeat center / cover;
+	width: 100%;
+	min-height: 631px;
+	position: relative;
+	z-index: -1;
+	background-color: transparent;
+
+	
+}
+
+.Project-pt {
+	padding-top: 40px;
+}
+
+.Project-two-three{
+	background-color: #F7F7FD;
+	z-index: 1;
+	position: absolute;
+	width: 100%;
+}
+
+
+.project-bg {
+	padding: 62px 54px 62px  54px !important;
+	margin: 0 0 -20px 0;
+	background-color: #fff;
+	z-index: 222;
+	margin-top: -360px !important;
+	position: relative;
+	box-shadow: 0px 9px 126px rgba(20, 0, 255, 0.06);
+	border-radius: 4px;
+	border: 1px solid #ECEAFF;
+	position: relative;
+	overflow: hidden;
+
+	&::before{
+		position: absolute;
+		content: "";
+		top: 240px;
+    	left: -149px;
+		width: 470px;
+		height: 470px;
+		border: 100px solid #2662FA;
+		opacity: 0.08;
+		border-radius: 50%;
+	}
+}
+
+
+.Project-pt{
+	padding-top: 40px;
+}
+.Project-head {
+	h2 {
+		font-weight: 700;
+		font-size: 48px;
+		line-height: 128%;
+		color: #04091E;
+	}
+	p {
+		font-weight: 400;
+		font-size: 18px;
+		line-height: 152%;
+		color: #747681;
+		padding-top: 18px;
+	}
+}
+.Project-head-middel {
+	margin-top: 18px;
+	.Project-head-middel-item {
+		display: flex;
+		align-items: center;
+		gap: 14px;
+		padding-bottom: 15px;
+		&:last-child {
+			padding-bottom: 0px;
+		}
+		.icon {
+			i {
+				color: #2662FA;
+				font-size: 20px;
+			}
+		}
+		.text {
+			ul {
+				margin: 0;
+				padding: 0;
+				li {
+					font-weight: 500;
+					font-size: 18px;
+					color: #04091E;
+					font-family: 'Work Sans', sans-serif;
+				}
+			}
+		}
+	}
+}
+.Project-btn {
+	margin-top: 45px;
+	line-height: 0;
+}
+.Project-right-item {
+	padding: 0px 33px 24px 33px;
+	background-color: #F2F6FE;
+	border: 1px solid #F4F4F4;
+	border-radius: 4px;
+	transition: background-color 0.5s ease;
+	z-index: 222;
+	margin: 0 10px;
+	.Project-right-icon {
+		.icon {
+			width: 80px;
+			height: 80px;
+			background-color: #2662FA;
+			border-radius: 50px;
+			text-align: center;
+			line-height: 80px;
+			margin-top: -35px;
+			transition: 0.5s;
+			border: 1px solid #2662FA;
+		}
+		display: flex;
+		justify-content: center;
+	}
+	&:hover {
+		background-color: #2662FA;
+		.Project-right-icon {
+			.icon {
+				border: 1px solid #fff;
+			}
+		}
+		.Project-right-item-text {
+			h3 {
+				color: #fff;
+			}
+			p {
+				color: #fff;
+			}
+		}
+	}
+}
+.Project-right-item-text {
+	h3 {
+		text-align: center;
+		font-weight: 600;
+		font-size: 40px;
+		color: #04091E;
+		padding-top: 30px;
+		transition: 0.5s;
+        line-height: 35px;
+	}
+	p {
+		text-align: center;
+		font-weight: 400;
+		font-size: 18px;
+		text-transform: capitalize;
+		color: #747681;
+		transition: 0.5s;
+        line-height: 35px;
+	}
+}
+.Project-right-top {
+	margin-top: 50px;
+}
+.martop {
+	margin-top: 72px;
+}
+
+
+
+
+
+
+
+// project-4 
+.project-4 {
+    padding: 120px 0 0 0;
+    background: url("../assets/image/Project-min.png") no-repeat top center;
+    min-height: 840px !important;
+
+    .project-section {
+        background: rgba(255, 255, 255, 1);
+       padding: 61px 38px  31px 57px ;
+        border-radius: 4px;
+        margin-top: 170px;
+        box-shadow: 0 9px 126px rgba(20, 0, 255, 0.06);
+
+
+        .project-content {
+
+            .project-tittle {
+            
+                p{
+                    padding: 18px 0;
+                }
+            }
+
+            .project-list {
+                li {
+                    display: flex;
+                    align-items: center;
+                    padding-bottom: 10px;
+
+                    &:last-child {
+                        padding-bottom: 0;
+                    }
+
+
+                    i {
+                        margin-right: 14px;
+                        font-size: 16px;
+                        color: $primary-color;
+                    }
+
+                    p {
+                        color: $heading-color;
+                    }
+                }
+            }
+
+            .project-btn {
+                margin-top: 44PX;
+
+            }
+        }
+        .project-counter-box{
+            text-align: center;
+            background-color: rgba(245, 245, 245, 1);
+            border: 1px solid rgba(244, 244, 244, 1);
+            padding: 24px 36px;
+            margin: 30px 10px;
+            border-radius: 4px;
+            transition: all .5s linear;
+
+            &:hover{
+                background-color: $primary-color;
+                p{
+                    color: $heading-color;
+                }
+            }
+
+            .counter-img{
+                margin-top: -60px;
+               
+            }
+            .counter-content{
+                padding-top: 21px;
+            }
+
+        }
+    }
+
+}
+
+
+
+
+
+
+

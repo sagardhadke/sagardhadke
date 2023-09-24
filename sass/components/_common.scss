@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0 ;
+    box-sizing: border-box;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    vertical-align: middle;
+}
+
+.container{
+    width: 1170px;
+    padding: 0;
+}
+
+p{
+    margin-bottom: 0;
+   
+}
+
+p,a,h1,h2,h3,h4,h5,h6,span{
+    font-family: 'Work Sans';
+}
+
+p,a,h1,h2,h3,h4,h5,h6{
+  margin-bottom: 0;
+}
+
+body{
+  overflow-x: hidden;
+  font-family: 'Work Sans';
+}
+
+.bg-1{
+    background-color: #050F25;
+}
+
+
+
+@font-face {
+    font-family: 'Work Sans';
+    font-style : italic;
+    font-weight : 400;
+    src : url(https://fonts.gstatic.com/s/worksans/v18/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU3msJow.ttf) format('truetype');
+    }
+
+    
+    @font-face {
+    font-family: 'Work Sans';
+    font-style : normal;
+    font-weight : 400;
+    src : url(https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXNig.ttf) format('truetype');
+    }
+
+
+    @font-face {
+    font-family: 'Work Sans';
+    font-style : normal;
+    font-weight : 500;
+    src : url(https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K3vXNig.ttf) format('truetype');
+    }
+
+
+
+    @font-face {
+    font-family: 'Work Sans';
+    font-style : normal;
+    font-weight : 600;
+    src : url(https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K5fQNig.ttf) format('truetype');
+    }
+
+
+
+
+    @font-face {
+    font-family: 'Work Sans';
+    font-weight : 700;
+    src : url(https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QNig.ttf) format('truetype');
+    } 
+
+
+
+
+
+
+
+
+// colors
+$primary-color:rgba(253, 204, 4, 1);
+$secondary-color:rgba(245, 245, 245, 1);
+$heading-color:rgba(4, 9, 30, 1);
+$paragraph-color:#747681;
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 700;
+    color: $heading-color;
+    margin: 0;
+}
+
+h1 {
+    font-size: 72px;
+    line-height: 84.46px;
+    color: $secondary-color;
+}
+
+h2 {
+    font-size: 48px;
+    line-height: 67.2px;
+}
+
+h3 {
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 500;;
+
+}

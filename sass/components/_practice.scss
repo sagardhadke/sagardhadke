@@ -1,0 +1,148 @@
+.practice{
+    padding: 120px 0;
+}
+
+
+.practice-topp{
+padding: 60px 60px  !important;
+background-color: #FFFFFF;
+box-shadow: 0px 10px 50px rgba(29, 29, 29, 0.05);
+border-radius: 12px;
+margin-top: -220px;
+position: relative;
+z-index: 1;
+
+}
+
+.pratice-mi{
+    margin-top: 40px;
+}
+
+.pratice-head{
+    span{
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 160%;
+        color: #FF3F00;
+    }
+
+    h2{
+        font-weight: 700;
+        font-size: 48px;
+        color: #04091E;
+        padding-top: 6px;
+        line-height: 140%;
+        position: relative;
+        z-index: 1;
+        &::before{
+			position: absolute;
+			content: "";
+		    top: 51px;
+    		left: 141px;
+            width: 178px;
+            height: 5px;
+			background-image: url(../assets/image/others/victor/Line.png)    ;
+			z-index: -1;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+		}
+    }
+}
+
+
+.pratice-head-r{
+    p{
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 160%;
+        color: #747681;
+        opacity: 0.7;
+    
+    }
+}
+
+
+.pratice-item-two{
+    padding: 36px 32px;
+    border: 2px solid #FF0041 !important;
+    border-radius: 8px;
+    background-color: #fff;
+    transition: all linear 0.5s;
+}
+
+.pratice-item{
+    padding: 36px 32px;
+    border: 2px solid #F4F4F4;
+    border-radius: 8px;
+    background-color: #fff;
+    transition: all linear 0.5s;
+    &:hover{
+        border: 2px solid  #FF0041;
+    }
+
+    .text{
+        h3{
+            font-weight: 600;
+            font-size: 24px;
+            color: #04091E;
+            padding-top: 20px;
+        }
+
+        p{
+            font-weight: 400;
+            font-size: 18px;
+            color: #747681;
+            padding: 12px 0 24px 0;
+        }
+    }
+
+    .pratice-btn{
+        a{
+            font-weight: 400;
+            font-size: 18px;
+            line-height: 152%;
+            display: flex;
+            gap: 8px;
+            color: #04091E;
+            text-decoration-line: underline;
+        }
+    }
+}
+
+
+.pratice-btn-2{
+    text-align: center;
+    margin-top: 60px;
+    a{
+
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 152%;
+        color: #747681;
+        padding: 16px 24px;
+        border: 1px solid #747681;
+        border-radius: 8px;
+        display: inline-block;
+        transition: all 0.5s ;
+        span{
+            svg{
+                stroke: currentColor;
+                color: #747681;
+                transition: all 0.5s ;
+            }
+        }
+
+
+        &:hover{
+            border: 1px solid #FF0041;
+            color: #FF0041;
+            span{
+                svg{
+                    stroke: currentColor;
+                    color: #FF0041;
+                }
+            }
+        }
+    }
+}

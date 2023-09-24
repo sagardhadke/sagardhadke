@@ -1,0 +1,137 @@
+.choose{
+    padding: 13px 0 120px 0;
+
+    .choose-item-two{
+        border: 1px solid #FF3F00 ;
+        .text{
+            span{
+                color: #FF3F00;
+            }
+    
+    
+            p{
+                color: #FF3F00;
+            }
+        }
+    }
+
+
+    .choose-text{
+    span{
+        background: linear-gradient(95.49deg, #FCAD02 -36.87%, #FF0041 98.63%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 150%;
+    }
+
+    h2{
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 140%;
+        color: #04091E;
+        position: relative;
+
+        &::before{
+			position: absolute;
+			content: "";
+            top: 41px;
+            left: 118px;
+            width: 174px;
+            height: 11px;
+			background-image: url(../assets/image/others/victor/Line-2.png);
+			z-index: -1;
+		}
+    }
+
+
+    p{
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 152%;
+        color: #747681;
+        padding-top: 5px;
+    }
+    }
+
+
+
+
+    }
+
+
+.Choose-ppl{
+    padding: 0;
+    padding-left: 146px;
+}
+
+
+    .choose-top{
+    margin-top: 30px;
+    }
+
+.choose-r-mt{
+    margin-top: 45px;
+}
+
+.choose-item{
+    text-align: center;
+    padding: 20px 0px;
+    border: 1px solid #74768148;
+    border-radius: 8px;
+    transition: all 0.5s;
+
+    .text{
+        span{
+            font-weight: 700;
+            font-size: 48px;
+            line-height: 140%;
+            color: #04091E;
+            transition: all 0.5s;
+        }
+
+
+        p{
+            font-weight: 400;
+            font-size: 18px;
+            line-height: 152%;
+            color: #747681;
+            transition: all 0.5s;
+        }
+
+        h3{
+          
+                font-weight: 700;
+                font-size: 48px;
+                line-height: 140%;
+                color: #04091E;
+                transition: all 0.5s;
+            
+        }
+    }
+
+
+
+    &:hover{
+        border: 1px solid #FF3F00;
+        .text{
+            span{
+                font-weight: 700;
+                font-size: 48px;
+                line-height: 140%;
+                color: #FF3F00;
+            }
+    
+    
+            p{
+                color: #FF3F00;
+            }
+
+            h3{
+                color: #FF3F00;
+            }
+        }
+    }
+}

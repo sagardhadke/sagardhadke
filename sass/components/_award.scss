@@ -1,0 +1,50 @@
+.award {
+    padding: 110px 0 120px 0;
+    background: #FFFFFF;
+
+    .award-section {
+        padding: 0 0 22px 0;
+    }
+
+    .award-heading {
+        h3 {
+            color: rgba(71, 217, 144, 1);
+        }
+    }
+
+    .award-btn {
+        i {
+            margin-left: 10px;
+        }
+
+    }
+
+    .award-image {
+        margin-top: 30px;
+        padding: 0 6px;
+
+        img{
+            width: 100%;
+        }
+
+        .award-img-heading {
+            bottom: 26px;
+            left: 30px;
+
+            p {
+                color: $primary-color;
+                padding-bottom: 12px;
+            }
+
+            h3 {
+                color: #FFFFFF;
+                font-weight: 700;
+
+                span {
+                    display: block;
+                }
+            }
+        }
+
+    }
+}

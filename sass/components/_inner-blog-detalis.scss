@@ -1,0 +1,153 @@
+
+
+
+
+
+
+
+
+.blog-details-img{
+  
+        position: relative;
+    
+
+    .b-d-overlay{
+        position: absolute;
+        top: 16PX;
+        right: 14PX;
+        padding: 10PX 17PX;
+        background-color: #FFFFFF;
+        border-radius: 6px;
+        text-align: center;
+      
+        .b-d-over-item{
+            display: flex;
+            gap: 11px;
+            justify-content: center;
+            
+            .b-d-inner{
+                display: flex;
+                align-items: center;
+                gap: 5px;
+                .icon{
+                    line-height: 0;
+                }
+                .text{
+                    p{
+                        font-weight: 500;
+                        font-size: 12px;
+                        line-height: 14px;
+                        color: #747681;
+                    }
+                }
+            }
+        }
+     
+    }
+}
+
+
+.blog-details-article-head{
+    padding-bottom: 22px;
+    h2{
+        font-weight: 600;
+        font-size: 48px;
+        color: #04091E;
+    }
+}
+
+
+.blog-details-article-text{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding-bottom: 29px;
+    .text{
+        span{
+            font-weight: 600;
+            font-size: 18px;
+            color: #272931;
+        }
+
+        p{
+            font-weight: 400;
+            font-size: 18px;
+            color: #747681;
+        }
+    }
+}
+
+.research-top-text-two{
+    margin-top: 0;
+}
+
+
+
+.comment{
+    .comment-head{
+        h4{
+            font-weight: 600;
+            font-size: 24px;
+            color: #111111;
+            padding-bottom: 10px;
+        }
+    }
+    padding: 50PX 0 120px 0;
+  .comment-item{
+    .comment-inner{
+        padding: 30px 27px 28px 30px;
+        border: 1px solid #ECEAFF;
+        border-radius: 4px;
+        background-color: #F7F7FD;
+        display: flex;
+        gap: 24px;
+        margin-bottom: 30px;
+
+        &:last-child{
+            margin-bottom: 0;
+        }
+        .comment-text{
+            .text{
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                padding-bottom:5px;
+             
+                h4{
+                    font-weight: 600;
+                    font-size: 18px;
+                    color: #04091E;
+                    line-height: 152%;
+                }
+
+                span{
+                    font-weight: 400;
+                    font-size: 18px;
+                    color: #2662FA;
+                    line-height: 152%; 
+                }
+            }
+
+            p{
+                font-weight: 400;
+                font-size: 18px;
+                line-height: 152%;
+                color: #747681;
+                line-height: 152%;
+                
+            }
+
+            a{
+                font-weight: 400;
+                font-size: 18px;
+                color: #2662FA;
+                line-height: 152%;
+            }
+        }
+    }
+
+    .comment-inner-two{
+        margin-left: 120px;
+    }
+  }  
+}
