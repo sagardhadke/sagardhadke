@@ -38,21 +38,18 @@
 
 ## Database
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?perline=6&i=mysql,firebase,sqlite" />
   </a>
 </p>
 
 ## Languages
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?perline=6&i=kotlin,c,cpp,java,php,html,css,js,tailwind" />
   </a>
 </p>
 
 ## Tools
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?perline=6&i=github,gcp,git,figma,xd,powershell,azure,postman,wordpress" />
   </a>
 </p>
