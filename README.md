@@ -31,7 +31,6 @@
 
 ## Android
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?perline=6&i=androidstudio,kotlin,gradle,idea,vscode" />
   </a>
 </p>
