@@ -46,7 +46,7 @@
 ## Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=6&i=c,cpp,java,php,html,css,js,tailwind" />
+    <img src="https://skillicons.dev/icons?perline=6&i=kotlin,c,cpp,java,php,html,css,js,tailwind" />
   </a>
 </p>
 
