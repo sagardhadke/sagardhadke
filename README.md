@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Bca , Kotlin , Android Development.**
 
-- 💬 Ask me about **Android , Web**
+- 🚀 Always pushing myself to learn new skills and take on new challenges.
 
 - 📫 How to reach me **peaceunique2003@gmail.com**
 
