@@ -11,7 +11,7 @@
 
 - 📱 Native Android Developer - Kotlin
   
-- 🌱 I’m currently learning Kotlin, Android Development.
+- 🌱 I’m currently learning **Kotlin, Android Development.**
 
 - 🚀 Always pushing myself to learn new skills and take on new challenges.
 
