@@ -10,7 +10,7 @@ var sagardhadke = {
   reach out: ["sagardeveloper@duck.com"],
 }
 ```
-
+> Translating Ideas into Powerful Apps 📲.
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagardhadke&label=Profile%20views&color=0e75b6&style=flat" alt="sagardhadke" /> </p>
@@ -20,11 +20,11 @@ var sagardhadke = {
 
 - 📱 Native Android Developer - Kotlin
   
-- 🌱 I’m currently learning **Kotlin, Android Development.**
+- 🌱 I’m currently learning **Jetpack Compose**
 
 - 🚀 Always pushing myself to learn new skills and take on new challenges.
 
-- 📫 How to reach me **peaceunique2003@gmail.com**
+- 📫 How to reach me **sagardeveloper@duck.com**
 
 - ⚡ Fun fact **I am funny**
 
