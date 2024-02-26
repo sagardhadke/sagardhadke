@@ -38,29 +38,9 @@ var sagardhadke = {
 <a href="https://www.youtube.com/channel/UCarobx8SpGOvAnkZjeSZ1CA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sagar dhadke" height="30" width="40" /></a>
 </p>
 
-## Android
-<p align="left">
-    <img src="https://skillicons.dev/icons?perline=6&i=androidstudio,kotlin,gradle,idea,vscode" />
-  </a>
-</p>
+### Languages and Tools 🛠️
 
-## Database
-<p align="left">
-    <img src="https://skillicons.dev/icons?perline=6&i=mysql,firebase,sqlite" />
-  </a>
-</p>
-
-## Languages
-<p align="left">
-    <img src="https://skillicons.dev/icons?perline=6&i=kotlin,c,cpp,java,php,html,css,js,tailwind" />
-  </a>
-</p>
-
-## Tools
-<p align="left">
-    <img src="https://skillicons.dev/icons?perline=6&i=github,gcp,git,figma,xd,powershell,azure,postman,wordpress" />
-  </a>
-</p>
+ [![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,figma,firebase,sqlite,git,github,gitlab,gradle,idea,vscode,java,md,mysql,cloudflare,netlify,postman,wordpress,xd)]()
 
 # 📊 GitHub Stats:
 
