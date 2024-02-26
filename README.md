@@ -63,6 +63,8 @@ var sagardhadke = {
 </p>
 
 # 📊 GitHub Stats:
+
+<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagardhadke&theme=tokyonight" alt="My Github Stats"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarDhadke&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SagarDhadke&theme=radical&hide_border=false"/></p>
