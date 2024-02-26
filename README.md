@@ -2,6 +2,15 @@
 <h1 align="center">Hello 🌍, I'm Sagar Dhadke <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
 <h3 align="center">A passionate Android Developer from India</h3>
 
+```Kotlin
+var sagardhadke = {
+  full Name: "Sagar Dhadke",
+  role: "Android Developer📲",
+  tags: [ "Android", "Kotlin", "FireBase🔥", "Rest API", "Open-Source🚀", "Room DB"],
+  reach out: ["sagardeveloper@duck.com"],
+}
+```
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagardhadke&label=Profile%20views&color=0e75b6&style=flat" alt="sagardhadke" /> </p>
