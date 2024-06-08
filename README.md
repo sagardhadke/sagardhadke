@@ -1,5 +1,5 @@
 ![MasterHead](https://raw.githubusercontent.com/sagardhadke/sagardhadke/main/Github%20Readme.png)
-<h1 align="center">Hello 🌍, I'm Sagar Dhadke <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
+<h1 align="center">Hello 🌍, I'm Sagar Dhadke <img src="https://github.com/sagardhadke/sagardhadke/assets/70995022/9c29e2ae-b702-431e-840c-b7e5d6530700" width="29px"></h1>
 <h3 align="center">A passionate Android Developer from India</h3>
 
 ```Kotlin
