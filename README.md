@@ -20,7 +20,7 @@ var sagardhadke = {
 
 - 📱 Native Android Developer - Kotlin
   
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning **Flutter**
 
 - 🚀 Always pushing myself to learn new skills and take on new challenges.
 
