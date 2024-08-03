@@ -6,7 +6,7 @@
 var sagardhadke = {
   full Name: "Sagar Dhadke",
   role: "Android Developer📲",
-  tags: [ "Android", "Kotlin", "FireBase🔥", "Rest API", "Open-Source🚀", "Room DB"],
+  tags: [ "Android", "Ios", "Dart", "Flutter" , "Kotlin", "FireBase🔥", "Rest API", "Open-Source🚀", "Room DB"],
   reach out: ["sagardeveloper@duck.com"],
 }
 ```
