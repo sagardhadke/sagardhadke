@@ -18,7 +18,7 @@ var sagardhadke = {
 
 <p align="left"> <a href="https://twitter.com/sagardhadke_uc" target="blank"><img src="https://img.shields.io/twitter/follow/sagardhadke_uc?logo=twitter&style=for-the-badge" alt="sagardhadke_uc" /></a> </p>
 
-- 📱 Native Android Developer - Kotlin
+- 📱 Native Android & Flutter Developer
   
 - 🌱 I’m currently learning **Flutter**
 
