@@ -40,7 +40,7 @@ var sagardhadke = {
 
 ### Languages and Tools 🛠️
 
- [![My Skills](https://skillicons.dev/icons?i=androidstudio,apple,dart,kotlin,figma,firebase,sqlite,git,github,gitlab,gradle,idea,vscode,java,md,mysql,cloudflare,netlify,postman,wordpress,xd)]()
+ [![My Skills](https://skillicons.dev/icons?i=androidstudio,apple,flutter,dart,kotlin,figma,firebase,sqlite,git,github,gitlab,gradle,idea,vscode,java,md,mysql,cloudflare,netlify,postman,wordpress,xd)]()
 
 # 📊 GitHub Stats:
 
