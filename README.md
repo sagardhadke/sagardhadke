@@ -30,8 +30,8 @@ var sagardhadke = {
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/sagar-dhadke-6a466b206" target="blank"><img align="center" src="https://github.com/user-attachments/assets/3fc85dcd-4427-4772-a0ab-f3d1ab42e28c" alt="Sagar Dhadke Linkedin" height="45" width="45" /></a>
 <a href="https://twitter.com/sagardhadke_uc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sagardhadke" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sagar-dhadke-6a466b206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-dhadke-6a466b206" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18133209/sagardhadke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sagardhadke" height="30" width="40" /></a>
 <a href="https://fb.com/sagar.dhadke.9889" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sagar.dhadke.9889" height="30" width="40" /></a>
 <a href="https://instagram.com/sagardhadke_uc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagardhadke_uc" height="30" width="40" /></a>
