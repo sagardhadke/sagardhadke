@@ -58,7 +58,7 @@ var sagardhadke = {
 
 ![](https://img.shields.io/badge/Tool-Android-informational?style=flat&logo=android&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tool-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tool-Dart-informational?style=flat&logo=dart&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-xml-informational?style=flat&logo=xml&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
