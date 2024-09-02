@@ -51,7 +51,8 @@ var sagardhadke = {
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SagarDhadke&theme=radical&hide_border=false"/></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SagarDhadke&theme=radical&hide_border=false&include_all_commits=false&count_private=false" /></p>
+![sagardhadke's Stats](https://github-readme-stats.vercel.app/api?username=sagardhadke&theme=radical&show_icons=true&hide_border=true&count_private=true)
+
 
 
 ## 💼 Skills
