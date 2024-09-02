@@ -46,12 +46,13 @@ var sagardhadke = {
 
 # 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagardhadke&theme=radical&hide_border=false" alt="My Github Stats"/></p>
+<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagardhadke&theme=codeSTACKr" alt="My Github Stats"/></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarDhadke&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SagarDhadke&theme=radical&hide_border=false"/></p>
 
-![sagardhadke's Stats](https://github-readme-stats.vercel.app/api?username=sagardhadke&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![sagardhadke's Stats](https://github-readme-stats.vercel.app/api?username=sagardhadke&theme=radical&show_icons=true&hide_border=false&count_private=true)
 
 
 
