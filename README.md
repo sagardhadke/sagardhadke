@@ -52,7 +52,8 @@ var sagardhadke = {
 
 <p><img align="center" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sagardhadke&count_private=true&theme=react&border_radius=10"/></p>
 
-![sagardhadke's Stats](https://github-readme-stats-salesp07.vercel.app/api?username=sagardhadke&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)
+<p><img align="center" src="https://github-readme-stats-salesp07.vercel.app/api?username=sagardhadke&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="My Github Stats"/></p>
+
 
 
 
