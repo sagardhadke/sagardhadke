@@ -52,7 +52,7 @@ var sagardhadke = {
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SagarDhadke&theme=radical&hide_border=false"/></p>
 
-![sagardhadke's Stats](https://github-readme-stats.vercel.app/api?username=sagardhadke&theme=radical&show_icons=true&hide_border=false&count_private=true)
+![sagardhadke's Stats](https://github-readme-stats-salesp07.vercel.app/api?username=sagardhadke&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)
 
 
 
