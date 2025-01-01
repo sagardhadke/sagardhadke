@@ -46,11 +46,11 @@ var sagardhadke = {
 
 # 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagardhadke&theme=codeSTACKr" alt="My Github Stats"/></p>
+<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagardhadke&theme=react&hide_border=false&border_radius=10" alt="My Github Stats"/></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarDhadke&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarDhadke&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SagarDhadke&theme=radical&hide_border=false"/></p>
+<p><img align="center" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sagardhadke&count_private=true&theme=react&border_radius=10"/></p>
 
 ![sagardhadke's Stats](https://github-readme-stats-salesp07.vercel.app/api?username=sagardhadke&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)
 
